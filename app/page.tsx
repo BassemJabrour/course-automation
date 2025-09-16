@@ -78,31 +78,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Free Bonus - Email Capture (placeholder) */}
-      <section className="px-6 sm:px-10 md:px-16 lg:px-24 xl:px-32 py-14">
-        <div className="max-w-3xl mx-auto text-center">
-          <h3 className="text-xl md:text-2xl font-semibold">Free Bonus</h3>
-          <p className="mt-2 text-black/80 dark:text-white/80">
-            Enter your email to receive a FREE guide: <span className="font-semibold">“5 Simple Ways to Use AI in Your Everyday Life”</span>
-          </p>
-          <form className="mt-6 flex flex-col sm:flex-row gap-3 justify-center" action="#" method="post">
-            <input
-              type="email"
-              required
-              placeholder="Enter Your Email Here"
-              className="h-12 w-full sm:w-96 px-4 rounded-md border border-black/10 dark:border-white/20 bg-background/80"
-            />
-            <button
-              type="submit"
-              className="h-12 px-6 rounded-md bg-foreground text-background font-medium hover:opacity-90 transition"
-            >
-              Get the Free Guide
-            </button>
-          </form>
-          <p className="mt-2 text-xs text-black/60 dark:text-white/60">Demo form only. Connect to your email tool to collect submissions.</p>
-        </div>
-      </section>
-
       {/* Main CTA */}
       <section className="px-6 sm:px-10 md:px-16 lg:px-24 xl:px-32 py-16 md:py-20 text-center bg-black/[.03] dark:bg-white/[.03]">
         <div className="max-w-3xl mx-auto">
