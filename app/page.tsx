@@ -40,7 +40,7 @@ export default function Home() {
             <br />for Business Growth
           </h1>
           <p className="text-base sm:text-lg md:text-xl text-black/70 dark:text-white/70">
-            Join 10,000+ entrepreneurs who've automated their workflows and doubled their income with our proven AI strategies.
+            Join 10,000+ entrepreneurs who&apos;ve automated their workflows and doubled their income with our proven AI strategies.
           </p>
           <div className="flex justify-center">
             <a
@@ -70,7 +70,7 @@ export default function Home() {
               See What Our Students Are Saying
             </h2>
             <p className="text-lg text-black/70 dark:text-white/70">
-              Real results from real entrepreneurs who've transformed their businesses with AI
+              Real results from real entrepreneurs who&apos;ve transformed their businesses with AI
             </p>
           </div>
 
@@ -96,7 +96,7 @@ export default function Home() {
                         </div>
                       </div>
                       <blockquote className="text-lg mb-4">
-                        "This course completely changed how I run my business. I've automated 80% of my repetitive tasks and my income has doubled in just 3 months!"
+                        &quot;This course completely changed how I run my business. I&apos;ve automated 80% of my repetitive tasks and my income has doubled in just 3 months!&quot;
                       </blockquote>
                       <div className="flex items-center justify-center">
                         <div className="w-12 h-12 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full flex items-center justify-center text-white font-semibold mr-3">
@@ -129,7 +129,7 @@ export default function Home() {
                         </div>
                       </div>
                       <blockquote className="text-lg mb-4">
-                        "As a small business owner, I was skeptical about AI. But this course made it so simple - now I save 20 hours per week and my revenue increased by 150%!"
+                        &quot;As a small business owner, I was skeptical about AI. But this course made it so simple - now I save 20 hours per week and my revenue increased by 150%!&quot;
                       </blockquote>
                       <div className="flex items-center justify-center">
                         <div className="w-12 h-12 bg-gradient-to-r from-green-500 to-blue-600 rounded-full flex items-center justify-center text-white font-semibold mr-3">
@@ -162,7 +162,7 @@ export default function Home() {
                         </div>
                       </div>
                       <blockquote className="text-lg mb-4">
-                        "The best investment I've ever made. From complete beginner to running automated systems that generate passive income. Worth every penny!"
+                        &quot;The best investment I&apos;ve ever made. From complete beginner to running automated systems that generate passive income. Worth every penny!&quot;
                       </blockquote>
                       <div className="flex items-center justify-center">
                         <div className="w-12 h-12 bg-gradient-to-r from-purple-500 to-pink-600 rounded-full flex items-center justify-center text-white font-semibold mr-3">
@@ -276,7 +276,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-semibold mb-3">Proven Results</h3>
               <p className="text-black/70 dark:text-white/70">
-                Join 10,000+ successful students who've transformed their businesses. Our track record speaks for itself – real people achieving real results with our methods.
+                Join 10,000+ successful students who&apos;ve transformed their businesses. Our track record speaks for itself – real people achieving real results with our methods.
               </p>
             </div>
           </div>
@@ -314,7 +314,7 @@ export default function Home() {
             Ready to Transform Your Business with AI?
           </h2>
           <p className="text-lg text-black/70 dark:text-white/70 mb-8">
-            Join thousands of entrepreneurs who've already discovered the power of AI automation
+            Join thousands of entrepreneurs who&apos;ve already discovered the power of AI automation
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button className="inline-flex items-center justify-center h-12 px-6 rounded-md border border-black/20 dark:border-white/30 hover:bg-black/5 dark:hover:bg-white/10 transition">
@@ -366,10 +366,10 @@ export default function Home() {
                   In 2019, I was a struggling freelance designer working 12-hour days to barely make ends meet. My inbox was overflowing, clients were demanding revisions, and I had no time for anything else.
                 </p>
                 <p>
-                  That's when I discovered AI automation. What started as a desperate attempt to save time completely transformed my business – and my life.
+                  That&apos;s when I discovered AI automation. What started as a desperate attempt to save time completely transformed my business – and my life.
                 </p>
                 <p>
-                  Today, I'm grateful to share these exact strategies with thousands of entrepreneurs who've achieved similar transformations.
+                  Today, I&apos;m grateful to share these exact strategies with thousands of entrepreneurs who&apos;ve achieved similar transformations.
                 </p>
               </div>
             </div>
@@ -453,7 +453,7 @@ export default function Home() {
       <section className="px-6 sm:px-10 md:px-16 lg:px-24 xl:px-32 py-16 md:py-20 text-center">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold tracking-tight mb-4">
-            Don't Wait – Transform Your Business Now
+            Don&apos;t Wait – Transform Your Business Now
           </h2>
           <p className="text-lg text-black/70 dark:text-white/70 mb-8">
             Limited time offer: Get lifetime access + all future updates

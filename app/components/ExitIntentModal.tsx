@@ -80,7 +80,7 @@ const ExitIntentModal: React.FC<ExitIntentModalProps> = ({ salesUrl }) => {
       <div className="bg-white dark:bg-gray-900 rounded-2xl shadow-2xl max-w-md w-full mx-4 overflow-hidden">
         {/* Header */}
         <div className="bg-gradient-to-r from-red-500 to-orange-500 p-6 text-white text-center">
-          <h2 className="text-2xl font-bold mb-2">🚨 Don't Leave Empty-Handed!</h2>
+          <h2 className="text-2xl font-bold mb-2">🚨 Don&apos;t Leave Empty-Handed!</h2>
           <p className="text-red-100">Special exit offer expires soon</p>
         </div>
 
@@ -151,7 +151,7 @@ const ExitIntentModal: React.FC<ExitIntentModalProps> = ({ salesUrl }) => {
               onClick={handleClose}
               className="w-full bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 font-medium py-3 px-6 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition"
             >
-              No thanks, I'll pay full price later
+              No thanks, I&apos;ll pay full price later
             </button>
           </div>
 
